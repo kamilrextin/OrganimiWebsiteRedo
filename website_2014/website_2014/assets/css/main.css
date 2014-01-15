@@ -2056,9 +2056,10 @@ ul.navbar-nav{
 }
 
 .mobileIcon{
-	background:url(../img/icons/18.png) no-repeat center center;
-	width:55px;
-	height:95px;
+	background:url(../img/organimi/photoboard2.png) no-repeat center center;
+	background-size:160px auto;
+	width:160px;
+	height:100px;
 	display:block;
 }
 .screwIcon{
