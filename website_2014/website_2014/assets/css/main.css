@@ -465,6 +465,12 @@ a.navbar-brand img{
 	padding-top:5px;
 	padding-bottom:25px;
 }
+
+.work-phase .hover p{
+	color:#fff;
+	padding-top:5px;
+	padding-bottom:25px;
+}
 .work-phase .hover a{
 	margin-top:36px;
 }
@@ -2004,7 +2010,7 @@ ul.navbar-nav{
 	display:block;
 }
 .teamIcon{
-	background:url(../img/organimi/email_team.png) no-repeat center center;
+	background:url(../img/organimi/icon_orgchart_02.png) no-repeat center center;
 	background-size:160px auto;
 	width:160px;
 	height:100px;
