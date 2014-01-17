@@ -2010,7 +2010,7 @@ ul.navbar-nav{
 	display:block;
 }
 .teamIcon{
-	background:url(../img/organimi/icon_orgchart_02.png) no-repeat center center;
+	background:url(../img/organimi/orgchart.png) no-repeat center center;
 	background-size:160px auto;
 	width:160px;
 	height:100px;
@@ -2056,7 +2056,7 @@ ul.navbar-nav{
 }
 
 .mobileIcon{
-	background:url(../img/organimi/photoboard2.png) no-repeat center center;
+	background:url(../img/organimi/photoboards.png) no-repeat center center;
 	background-size:160px auto;
 	width:160px;
 	height:100px;
@@ -2156,5 +2156,10 @@ ul.navbar-nav{
 	display:block;
 }
 
-
+.profileIcon{
+	background:url(../img/organimi/myprofile.png) no-repeat center center;
+	width:200px;
+	height:150px;
+	display:block;
+}
 
