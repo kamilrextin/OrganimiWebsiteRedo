@@ -1996,9 +1996,9 @@ ul.navbar-nav{
    18-Flat-Icons
    =========================== */
 .iconLogoLarge {
-	background:url(../img/organimi/organimilogoblue.png) no-repeat center center;
+	background:url(../img/organimi/organimilogobluestroke2.png) no-repeat center center;
 	background-size:auto;
-	width:400px;
+	width:600px;
 	height:200px;
 	display:block;
 }
