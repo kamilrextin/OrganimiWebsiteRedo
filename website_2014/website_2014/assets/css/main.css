@@ -2163,3 +2163,9 @@ ul.navbar-nav{
 	display:block;
 }
 
+.userIcons{
+    background:url(../img/userlogo/amazon.png) 
+    width:auto;
+    height:auto;
+    display:inline-grid;
+}
