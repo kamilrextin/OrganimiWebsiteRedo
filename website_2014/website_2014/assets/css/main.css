@@ -2031,8 +2031,8 @@ ul.navbar-nav{
 	display:block;
 }
 .beakerIcon{
-	background:url(../img/icons/14.png) no-repeat center center;
-	width:79px;
+	background:url(../img/organimi/profile.png) no-repeat center center;
+	width:150px;
 	height:96px;
 	display:block;
 }
@@ -2069,7 +2069,7 @@ ul.navbar-nav{
 	display:block;
 }
 .headphoneIcon{
-	background:url(../img/icons/20.png) no-repeat center center;
+	background:url(../img/organimi/secure.png) no-repeat center center;
 	width:110px;
 	height:100px;
 	display:block;
@@ -2169,3 +2169,25 @@ ul.navbar-nav{
     height:auto;
     display:inline-grid;
 }
+
+.signupbtn{
+    margin: auto;
+    text-decoration: none;
+    display:block;
+    width:50%;
+    text-align:center;
+	 padding:15px 50px 15px 50px; 
+	background:#f59343;
+	color:#fff;
+	text-transform:capitalize;
+	border-bottom:3px solid #ac6932;
+	font-size:18px;
+	font-weight:bold;
+	border-radius:2px;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+   
+}
+    
