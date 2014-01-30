@@ -258,6 +258,18 @@ ul.dropdown-menu li a {
 	font-weight:900;
 	text-transform:uppercase;
 	padding:0;
+	background-image: url(../img/organimi/OLogoFlat.png);
+
+}
+
+.navbar-icon {
+	background:url(../img/organimi/smalllogo.png) no-repeat center center;
+	/* background-size:135px auto; */
+	width:200px;
+	height:76px;
+	display:block;
+	float: left;
+	padding-bottom: 20px;
 }
 .navbar > .container .navbar-brand{
 	margin-left:0;
@@ -269,6 +281,8 @@ ul.dropdown-menu li a {
 
 a.navbar-brand img{
 	padding-right:15px;
+
+
 }
 
 .navbar-nav > li:hover ul.dropdown-menu {
